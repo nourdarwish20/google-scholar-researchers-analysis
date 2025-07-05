@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Browser drivers (Selenium >= 4.6 downloads its own)
+chromedriver*
+*.exe
+
+# Raw / intermediate data not tracked in the repo
+all_university_publications.csv
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
