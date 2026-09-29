@@ -2,6 +2,12 @@
 
 An interactive Streamlit app for exploring the publications of **Lebanese University (LU)** researchers on Google Scholar.
 
+## Live Demo
+
+Try the app here:
+
+https://app-scholar-researchers-analysis-mzdjj2lprqo3qzpi9h3adr.streamlit.app/
+
 The project collects researcher profiles and publications from Google Scholar, tags every article with a topic taken from the author's own research interests, and serves the result in a dashboard where you can:
 
 - **Search researchers** and see their citations, h-index and paper count
